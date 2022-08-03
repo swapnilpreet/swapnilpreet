@@ -9,7 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<P>Hi I am Swapnil vijay Ramteke a full-stack web developer with a specialization in MERN stack. Capable of writing efficient code in HTML, CSS, JavaScript, React.js, Node.js and Express.js. Collaborative, team player who is proficient in working with inter-disciplinary teams and executing goal-oriented projects. Passionate about coding and looking for an opportunity in software development.</P>
+<h3>I'm an articulate and confident team worker with a clear focus on results, passionate about technology, people, and companies in everyday life. 
+
+
+I enjoy the challenge of solving algorithmic problems and using code to create something. Technologies that enhance and automate our lives, bring minimalism into our lives continue to motivate me to write code that can in some way or the other increase productivity, and transform the lives of people on earth.
+
+I love questioning things, learning new tools and technologies, and creating interesting things.</h3>
+</br>
 
 - 🌱 I’m currently learning **MERN stack**
 
