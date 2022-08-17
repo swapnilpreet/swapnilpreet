@@ -27,7 +27,7 @@ I love questioning things, learning new tools and technologies, and creating int
 
 - 💬 Ask me about **React, Nodejs**
 
-- 📫 How to reach me **swapnilramteke004@gmail.com**
+- 📫 Contact Email **swapnilramteke004@gmail.com**
 
 - 📫 How to reach me **https://swapnil-protfolio.netlify.app**
 
