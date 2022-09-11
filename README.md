@@ -31,7 +31,7 @@ I love questioning things, learning new tools and technologies, and creating int
 
 - 📫 Contact Email **swapnilramteke004@gmail.com**
 
-- 📫 How to reach me **https://protfolio-swapnil.netlify.app/**
+- 📫 How to reach me **https://swapnil-preet-ramteke.netlify.app/**
 
 - ⚡ Fun fact **I love connecting with different people**
 
