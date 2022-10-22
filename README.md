@@ -94,7 +94,7 @@ I love questioning things, learning new tools and technologies, and creating int
 <br/>
 <br/>
 
- <div align="displayflex">
+ <div align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilpreet&show_icons=true&locale=en&layout=compact" alt="swapnilpreet" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilpreet&show_icons=true&locale=en" alt="swapnilpreet" />
 </div>
