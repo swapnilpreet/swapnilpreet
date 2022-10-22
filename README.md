@@ -25,7 +25,7 @@ I love questioning things, learning new tools and technologies, and creating int
 
 - 📝 2022 Goals Contribute to Open Source projects
 
-- 💬 Ask me about **React, Nodejs**
+- 👨‍💻 Visit My Portfolio here [Portfolio](https://leafy-banoffee-e3196d.netlify.app/)
 
 - 📝 check out medium Blog **https://medium.com/@swapnilramteke004**
 
