@@ -29,7 +29,7 @@ I love questioning things, learning new tools and technologies, and creating int
 
 - 📝 2022 Goals Contribute to Open Source projects
 
-- 👨‍💻 Visit My Portfolio here [Portfolio](https://leafy-banoffee-e3196d.netlify.app/)
+- 👨‍💻 Visit My Portfolio here [Portfolio](https://stirring-capybara-7db57a.netlify.app/)
 
 - 📝 check out medium Blog [Blog](https://medium.com/@swapnilramteke004)
 
