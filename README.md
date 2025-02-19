@@ -27,9 +27,7 @@ I love questioning things, learning new tools and technologies, and creating int
 
 - 🤝 I’m looking for help with **Open source Contribution**
 
-- 📝 2022 Goals Contribute to Open Source projects
-
-- 👨‍💻 Visit My Portfolio here [Portfolio](https://stirring-capybara-7db57a.netlify.app/)
+- 📝 2025 Goals Contribute to Open Source projects
 
 - 📝 check out medium Blog [Blog](https://medium.com/@swapnilramteke004)
 
